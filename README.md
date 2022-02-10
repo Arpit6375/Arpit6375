@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arpit6375
+- 👋 Hi, I’m Arpit
 
 <!---
 <table>
