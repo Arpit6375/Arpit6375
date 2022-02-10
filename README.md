@@ -23,3 +23,8 @@
 Arpit6375/Arpit6375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ **Feel Free to connect!**
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskritikhare/)](https://www.linkedin.com/in/arpit-agarwal-6097a91ba/)
