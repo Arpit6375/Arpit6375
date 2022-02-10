@@ -1,13 +1,6 @@
 # Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Arpit Agarwal
 
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Arpit6375/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
-
 **I'm a 2nd year student at SRM University, pursuing Bachelor Of Technology in the field of Computer Science. I am currently learning Web Development and I have a keen interest in Business Administration. Apart from technology, I am a Shutterbug and a Swimmer.**
 
 <!---
