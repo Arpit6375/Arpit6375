@@ -1,7 +1,7 @@
 # Hi!<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Arpit Agarwal
 
 
-**I'm a 2nd year student at SRM University, pursuing Bachelor Of Technology in the field of Computer Science. I am currently learning Web Development and I have a keen interest in Business Administration. Apart from technology, I am a Shutterbug and a Swimmer.**
+**I'm a 4th year student at SRM University, pursuing Bachelor Of Technology in the field of Computer Science. I am currently learning Web Development and I have a keen interest in Data Analytics. Apart from technology, I am a Shutterbug and a Swimmer.**
 
 <!---
 <table>
